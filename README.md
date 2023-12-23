@@ -1,4 +1,4 @@
-# Simple tool built in Python, that uses FFmpeg to take 1 video and multiple audio files. See Release folder.
+## Audio-Video Merger Tool makes it easy to merge 1 video with multiple audio files.
 
 * For each audio file, it will output a copy of the video, merged with the respective audio file.
 * The output folder is next to the video’s location.
