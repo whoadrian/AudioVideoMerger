@@ -4,13 +4,13 @@
 * The output folder is next to the video’s location.
 
 ### Example input: (works with any name, most file extensions too)
-video.mp4
-audio1.wav
-audio2.wav
+* video.mp4
+* audio1.wav
+* audio2.wav
 
 ### Output:
-video_audio1.mp4
-video_audio2.mp4
+* video_audio1.mp4
+* video_audio2.mp4
 
 
 ## Instructions
@@ -21,3 +21,6 @@ video_audio2.mp4
 * The tool will do its magic...
 * Open the output_folder at the video’s location to see the results.
 * Any errors will show up in the console.
+
+
+Source code is available, as a python script. Free to use, modify and distribute.
